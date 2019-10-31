@@ -1,2 +1,2 @@
 # data_conference
-A static material inspired website for a Data Science Conference at VIT.
+A static material inspired website for a Data Science Conference at VIT  .
